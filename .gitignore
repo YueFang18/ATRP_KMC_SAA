@@ -1,0 +1,46 @@
+/cmake-build-debug/
+/.idea/
+/output/chainlength/
+/output/data09222_dispersity/
+/output/data20230909/
+/output/data20230913/
+/output/data20230914/
+/output/data20230917/
+/output/data20230918/PDI/
+/output/data20230919/1e7/
+/output/data20230920test/
+/output/data20230921/
+/output/data20231007/
+/output/data20231115/
+/output/data20240201/PDI/
+/output/data20250413/
+/output/ode_data.out
+/output/PDI/
+/output/output_data/bimodal/Combined_Conv50_MWD_WeightFraction-500.png
+/output/output_data/bimodal/Combined_Conv50_MWD_WeightFraction-1000.png
+/output/output_data/bimodal/Combined_Conv50_MWD_WeightFraction-1500.png
+/output/output_data/bimodal/Combined_Conv50_MWD_WeightFraction-2500.png
+/output/output_data/bimodal/comparison_MWD_con.py
+/output/output_data/bimodal/comparison_MWD_con_50.py
+/output/output_data/bimodal/MWD_1e5_conversions.png
+/output/output_data/bimodal/MWD_1e5_vs_1e7_500s.png
+/output/output_data/bimodal/MWD_1e5_vs_1e7_1000s.png
+/output/output_data/bimodal/MWD_1e5_vs_1e7_1500s.png
+/output/output_data/bimodal/MWD_1e5_vs_1e7_2500s.png
+/output/output_data/bimodal/MWD_Conv50_1e5_hist_1e7_line.png
+/output/output_data/chainlength/comparison_1e7_vs_1e5.png
+/output/output_data/chainlength/comparison_con.py
+/output/output_data/chainlength/comparison_MWD_CL.py
+/output/output_data/chainlength/MWD_by_chain_length_1e5_vs_1e7.png
+/output/output_data/PDI/Combined_Conv50_MWD_WeightFraction-2.png
+/output/output_data/PDI/Combined_Conv50_MWD_WeightFraction-4.png
+/output/output_data/PDI/Combined_Conv50_MWD_WeightFraction-8.png
+/output/output_data/PDI/Combined_Conv50_MWD_WeightFraction-20.png
+/output/output_data/PDI/comparison_MWD_con.py
+/output/output_data/PDI/comparison_MWD_con_50.py
+/output/output_data/PDI/MWD_1e5_vs_1e7_2 times.png
+/output/output_data/PDI/MWD_1e5_vs_1e7_4 times.png
+/output/output_data/PDI/MWD_1e5_vs_1e7_8 times.png
+/output/output_data/PDI/MWD_1e5_vs_1e7_20 times.png
+/output/output_data/ode_add_times.txt
+/output/output_data/chainlength/1e5/comparison_figure.png
