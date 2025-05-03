@@ -34,7 +34,7 @@ PMMA-System-Generator/
 │  └─ *.h              # core kinetics & utilities
 ├─ src/
 │  ├─ main.cpp         # entry point (KMC loop)
-│  └─ ...
+│  └─ input.txt        #experimental parameters (The total number of molecules(1.2e5 and 1.2e7) needs to be switched )
 ├─ output/           # output file
 └─ README.md
 ```
