@@ -43,8 +43,8 @@ PMMA-System-Generator/
 
 ## 4  Getting Started
 ### 4.1  Prerequisites
-* **C++17** compiler (GCC ≥ 9, Clang ≥ 10, or MSVC ≥ 19.28)
-* **CMake** ≥ 3.20
+* **C++17** compiler 
+* **CMake** 
 * **Boost** (ODEInt) for optional stiff‑ODE coupling
 * *Optional*: **Python 3.9+** with *NumPy*, *pandas*, *matplotlib* for post‑processing
 
