@@ -33,7 +33,7 @@ PMMA-System-Generator/
 │  ├─ add_schedule.h   # dosing & growth controls
 │  └─ *.h              # core kinetics & utilities
 ├─ src/
-│  ├─ main.cpp         # entry point (KMC loop)
+│  ├─ main.cpp         # entry point (KMC loop), the input path and output path need to be defined by the user
 │  └─ input.txt        #experimental parameters (The total number of molecules(1.2e5 and 1.2e7) needs to be switched )
 ├─ output/           # output file
 └─ README.md
